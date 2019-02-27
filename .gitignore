@@ -5,6 +5,7 @@
 
 .gitignore
 ENV/
+ .vscode/
 
 # User-specific files
 *.suo
